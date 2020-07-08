@@ -23,7 +23,7 @@
 </div>
 
 ***
-<p align = "justify">I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
+<p align = "justify">I am a recent Junior Software Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
 </p>
 
 
@@ -32,13 +32,14 @@
 
 ### <a name="summary">Summary</a>
 
-Currently completing the intensive 12 weeks of [Makers Academy](https://github.com/makersacademy)
+I am a recent Junior Software Developer, based in London, recently gratuated from a intense and selective development course in [Makers Academy](https://github.com/makersacademy)
+, London.
 
 I am a responsible, hard working and enthusiastic person. Being worked in different projects and environments helped me to adopt the changes quickly.
 
 I am passionate about learning new technologies, bringing ideas to life and working with dedicated teams to build efficient and robust appplications suited to the user's needs. 
 
-I am currently looking to change carrer from teaching into software developer, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+I am currently looking to change carrer from teaching into software developer, where I can further expand my knowledge in Front-End development and design.
 
 ***
 
@@ -60,10 +61,9 @@ Honey Bunnies Acebook | Clone of some Facebook functionalities using rails as a 
 
 HTML * CSS * Ruby * JavaScript * Phython 
 
-Currently working on different projects at Makers Academy
-(In progress)
+Currently working on different Front End projects (In progress)
 
-*All source code available on Github: [https://github.com/pauladarias][1]
+*All source code available on [my Github](https://github.com/pauladarias)
 
 
 #### Makers Academy (April 2020 to June 2020)
@@ -99,11 +99,7 @@ term cover as required*
 
 ### <a name="interests">Interests</a>
 
-- **Drumming** 
-- **Yoga**
-- **Drawing** 
-- **Comic Books**
-
+Passionate about music, especially playing drums in female bands. Love for desing and drawing, yoga and cooking. 
 
 ***
 
@@ -111,8 +107,8 @@ term cover as required*
 - Github: [pauladarias][1]
 - Twitter: [@pauladarias](https://twitter.com/pauladarias)
 - Codewars http://www.codewars.com/users/pauladarias
-- Coding Blog/Site: [pauladarias.com](http://www.pauladarias.com)
-- LinkedIn 
+- Coding Blog/Site: (in progress)
+- [LinkedIn](https://www.linkedin.com/in/paula-darias-a10317117/)
 
 [1]: https://github.com/pauladarias
 
