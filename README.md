@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paula-darias-a10317117">
+  <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
     <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
 </p>
 
@@ -16,7 +16,9 @@
 [ SKILLS ](#skills) |
 [ EDUCATION ](#education) |
 [ EXPERIENCE ](#experience) |
-[ INTERESTS ](#interests)
+[ INTERESTS ](#interests) |
+[ CONTACT ](#contact)  |
+[ PORTFOLIO ](https://www.pauladarias.com)
 
 </div>
 
@@ -27,14 +29,6 @@
 
 
 ***
-
-# Paula Darias  
-
-About me
-
-***
-[Sumary](#sumary) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
-[Portfolio](https://www.pauladarias.com)
 
 ### <a name="summary">Summary</a>
 
@@ -48,9 +42,19 @@ I am currently looking to change carrer from teaching into software developer, w
 
 ***
 
-### <a name="PROJECTS">Skills</a>
+### <a name="PROJECTS">Projects</a>
+
+For a complete list of what i am working on [GitHub](https://github.com/pauladarias)
+
+
+Project | Description | Tech Stack | Testing | Links
+--- | --- | --- | --- | ---
+Re-engage Portal | The Re-Engage Coordinator Portal helps charity coordinators by automating the administrative tasks involved. | MongoDB, Express, React, Node.js | Jest, Cypress | <a href="https://charity2020.herokuapp.com/admin/login"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a><a href="https://github.com/Tracht/charity-apr2020"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+Honey Bunnies Acebook | Clone of some Facebook functionalities using rails as a framework for back and front end. | Rails, Active Records, Active Storage, Ac, Bootstrap | Rspec, Capybara | <a href="https://acebook-honeybunnies.herokuapp.com/"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a><a href="https://github.com/cmb84scd/acebook-HoneyBunnies"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+***
 
 ***
+
 
 ### <a name="skills">Skills</a>
 
@@ -61,8 +65,6 @@ Currently working on different projects at Makers Academy
 
 *All source code available on Github: [https://github.com/pauladarias][1]
 
-
-### <a name="skills">Education</a>
 
 #### Makers Academy (April 2020 to June 2020)
 Highly selective 12 week intensive coding bootcamp.
@@ -81,7 +83,7 @@ BA Hons Fine Art, specialising in Ilustration and Digital Imaging (Tenerife 2010
 
 ***
 
-### <a name="employment">Employment</a>
+### <a name="employment">Employment</a> 
 
 **Protocol Education** (November 2019 to March 2019)
 *Supply teacher providing short/medium or long
@@ -102,12 +104,6 @@ term cover as required*
 - **Drawing** 
 - **Comic Books**
 
-***
-
-### <a name="languages">Languages</a>
-
-- **Spanish** (native proficiency)
-- **English** (full professional proficiency)
 
 ***
 
