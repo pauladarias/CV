@@ -5,9 +5,16 @@
 <br>
 
 <p align="center">
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paula-darias-a10317117/)
+&nbsp;
   <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
     <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
 </p>
+
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][2]
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/paula-darias-a10317117/)
+&nbsp;
 
 <div align="center">
   
@@ -116,6 +123,7 @@ Passionate about music, especially playing drums in female bands. Love for desin
 - [LinkedIn](https://www.linkedin.com/in/paula-darias-a10317117/)
 
 [1]: https://github.com/pauladarias
+[2]: https://www.linkedin.com/in/paula-darias-a10317117/
 
 
 
