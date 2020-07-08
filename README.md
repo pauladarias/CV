@@ -85,7 +85,7 @@ _QTS recognised by The National College for Teaching & Leadership in England - N
 
 #### BA Hons Fine Art (Tenerife 2010)
 
-\*Specialising in Illustration and Digital Imaging
+_Specialising in Illustration and Digital Imaging_
 
 ---
 
