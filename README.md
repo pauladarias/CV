@@ -27,14 +27,14 @@
 
 ### <a name="summary">Summary</a>
 
-I am a recent Junior Software Developer, based in London, recently gratuated from a intense and selective development course in [Makers Academy](https://github.com/makersacademy)
+I am a recent Junior Software Developer, based in London, recently graduated from an intense and selective development course in [Makers Academy](https://github.com/makersacademy)
 , London.
 
-I am a responsible, hard working and enthusiastic person. Being worked in different projects and environments helped me to adopt the changes quickly.
+I am a responsible, hard working and enthusiastic person. Being worked in different projects and environments helped me to adapt to the changes quickly.
 
-I am passionate about learning new technologies, bringing ideas to life and working with dedicated teams to build efficient and robust appplications suited to the user's needs. 
+I am passionate about learning new technologies, bringing ideas to life and working with dedicated teams to build efficient and robust applications suited to the user's needs. 
 
-I am currently looking to change carrer from teaching into software developer, where I can further expand my knowledge in Front-End development and design.
+I am currently looking to change career from teaching into software developer, where I can further expand my knowledge in Front-End development and design.
 
 ***
 
@@ -79,12 +79,12 @@ Highly selective 12 week intensive coding bootcamp.
 - Full stack web development
 - Independent learner and problem-solver
 
-#### La Laguna University (September 1999 to July 2002)
+#### Masters Degree in Secondary School Education (Tenerife 2012)
 
-Masters Degree in Secondary School Education (Tenerife 2012)
 *QTS recognised by The National College for Teaching & Leadership in England - November 2014*
 
-BA Hons Fine Art, specialising in Ilustration and Digital Imaging (Tenerife 2010)
+#### BA Hons Fine Art (Tenerife 2010)
+*Specialising in Illustration and Digital Imaging 
 
 ***
 
@@ -95,10 +95,10 @@ BA Hons Fine Art, specialising in Ilustration and Digital Imaging (Tenerife 2010
 term cover as required*
 
 **Yavneh College** (September 2019 to November 2019)    
-*Secondary Art Teacher for KS3 and KS4. responsible of planning and preparing learning activities and guide students towards the achievement of curriculum and district objectives incorporating new technologies and tools in the creative process* 
+*Secondary Art Teacher for KS3 and KS4. responsible for planning and preparing learning activities and guide students towards the achievement of curriculum and district objectives incorporating new technologies and tools in the creative process* 
 
 **Dersingham School** (March 2015 to June 2019)   
-*Full-time class teacher responsible for providing students with the very best educational experience. Designing and presenting exiting lessons that actively engage learners across KS1. Duties include planning, teaching and assessment, communicating with parents and outside agencies. Multimedia Teaching and Computing*  
+*Full-time class teacher responsible for providing students with the very best educational experience. Designing and presenting exciting lessons that actively engage learners across KS1. Duties include planning, teaching and assessment, communicating with parents and outside agencies. Multimedia Teaching and Computing*  
 
 ***
 
