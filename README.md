@@ -7,7 +7,7 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
-    <img src="https://github.com/pauladarias/CV/blob/master/images%20/link_logo.png" alt="linkedin" </a>
+    <img src="https://github.com/pauladarias/CV/blob/master/images%20/linkedin_logo.png" alt="linkedin" hspace="30" height="42" width="42"</a>
 </p>
 
 <div align="center">
