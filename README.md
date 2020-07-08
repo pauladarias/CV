@@ -1,3 +1,33 @@
+ <br>
+
+<h1 align="center">PAULA DARIAS</h1>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paula-darias-a10317117">
+    <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
+</p>
+
+<div align="center">
+  
+[ SUMARY ](#sumary) |
+[ PROJECTS ](#projects) |
+[ SKILLS ](#skills) |
+[ EDUCATION ](#education) |
+[ EXPERIENCE ](#experience) |
+[ INTERESTS ](#interests)
+
+</div>
+
+***
+<p align = "justify">I am a recent Junior Full Stack Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
+</p>
+
+
+
+***
+
 # Paula Darias  
 
 About me
@@ -15,6 +45,10 @@ I am a responsible, hard working and enthusiastic person. Being worked in differ
 I am passionate about learning new technologies, bringing ideas to life and working with dedicated teams to build efficient and robust appplications suited to the user's needs. 
 
 I am currently looking to change carrer from teaching into software developer, where I can further expand my knowledge in Full-Stack and Front-End development and design.
+
+***
+
+### <a name="PROJECTS">Skills</a>
 
 ***
 
