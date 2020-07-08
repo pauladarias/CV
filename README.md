@@ -5,6 +5,7 @@
 <br>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
     <img src="./images/link_logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
 </p>
