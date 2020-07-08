@@ -23,12 +23,7 @@
 </div>
 
 ***
-<p align = "justify">I am a recent Junior Software Developer, based in London, recently gratuated from a intense and selective development course in Makers Academy, London.
-</p>
 
-
-
-***
 
 ### <a name="summary">Summary</a>
 
@@ -59,11 +54,21 @@ Honey Bunnies Acebook | Clone of some Facebook functionalities using rails as a 
 
 ### <a name="skills">Skills</a>
 
-HTML * CSS * Ruby * JavaScript * Phython 
+- **Good communicator** - Skilled in communicating effectively with strong interpersonal and organizational skills.
+- **Adaptable** - New environments, new languages, new teams, new challenges. None of these are problems, only opportunities. I have worked in a few countries around the world with a huge diversity of teams. There is always a way to connect.
+- **Attention to detail** - In my previous experience as an educator, I have developed an extremely keen eye for the fine details. This comes through in the way I write code, from seeing how the whole code fits in together.
+- **Enthusiastic** - I am highly motivated and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
+- **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
+- **Goal orientated** - Achieving goals, creative/strategic thinking, and problem-solving.
+- **Diligent** - Excellent ethics, hardworking, focus minded and sound organizational ability.
+- **Collaborator** - A friendly, passionate and confident communicator. Able to build lasting relationships with people.
 
 Currently working on different Front End projects (In progress)
 
 *All source code available on [my Github](https://github.com/pauladarias)
+
+***
+### <a name="education">Education</a>
 
 
 #### Makers Academy (April 2020 to June 2020)
