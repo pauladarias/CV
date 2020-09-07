@@ -1,7 +1,7 @@
  <br>
 <p align="center">
   <a href="https://www.pauladarias.com">
-    <img  src=https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" hspace="50" height="62" width="62"">
+    <img  src="https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" hspace="50" height="62" width="62"">
 
   <h3 align="center" style="color: green">www.pauladarias.com</h3></a>
 </p>
