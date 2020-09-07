@@ -1,9 +1,8 @@
  <br>
 <p align="center">
   <a href="https://www.pauladarias.com">
-    <img  src="https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" width="20%">
-    <h2 align="center" style="color: black">PAULA DARIAS</h2>                                                                                                                                
-    <h4 align="center" style="color: green">👉  www.pauladarias.com  👈 </h4></a>
+    <img  src="https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" width="20%">                                                                                                                          
+    <h3 align="center" style="color: green">👉  www.pauladarias.com  👈 </h3></a>
 
 </p>
 
