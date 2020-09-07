@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.pauladarias.com">
     <img  src="https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" width="20%">                                                                                                                          
-    <h3 align="center" style="color: green">👉  www.pauladarias.com  👈 </h3></a>
+    <h3 align="center" style="color: green" >👉  www.pauladarias.com  👈 </h3></a>
 
 </p>
 
@@ -25,14 +25,16 @@
 
 ### <a name="summary">Summary</a>
 
-I am a recent Junior Software Developer, based in London, recently graduated from an intense and selective development course in [Makers Academy](https://github.com/makersacademy)
-, London.
+
+I’m Paula and I’m very excited to find my first role as Junior Front-End Developer. After finishing [Makers](https://github.com/makersacademy) I’ve been working on my own projects, learning React and making my website look better. 
+
+I’ve been a teacher for the past 8 years, that have helped me to focus on my learning process and to believe that with perseverance, commitment and passion anything can be learnt. 
+
+I love web design and I enjoy building intuitive websites thanks to my arts background, creative thinking and attention to detail. 
 
 I am a responsible, hard working and enthusiastic person. Being worked in different projects and environments helped me to adapt to the changes quickly.
 
-I am passionate about learning new technologies, bringing ideas to life and working with dedicated teams to build efficient and robust applications suited to the user's needs.
 
-I am currently looking to change career from teaching into software developer, where I can further expand my knowledge in Front-End development and design.
 
 ---
 
