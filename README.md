@@ -30,7 +30,7 @@ My name is Paula and I am very excited to begin searching for my first role as a
 
 For the past 8 years I have been working in education as a teacher; this has helped me to focus on my learning process and to believe that with perseverance, commitment and passion, anything can be learnt.
 
-Previous to my employment in education I had a background in fine art, something I still have a keen interest in to this day. This helped me to think creatively and also ensured that I give all that I do the attention to detail it deserves. This has been key to my development as a developer which in turn has meant that I have been able to create good looking, simple applications with general ease.
+Previous to my employment in education I had a background in fine art, something I still have a keen interest in to this day. This helped me to think creatively and also ensured that I give all that I do the attention to detail it deserves. This has been key to my progress as a developer which in turn has meant that I have been able to create good looking, simple applications with general ease.
 
 I am an enthusiastic, responsible and hard working person. I'v worked in different environments and on different projects throughout my career which has helped me to adapt to changes quickly.
 
