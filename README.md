@@ -104,7 +104,7 @@ _Full-time class teacher responsible for providing students with the very best e
 
 ### <a name="interests">Interests</a>
 
-Passionate about music, especially playing drums in female bands. Love for desing and drawing, yoga and cooking.
+Passionate about music, especially playing drums in female bands. Love for design and drawing, yoga and cooking.
 
 ---
 
