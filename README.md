@@ -39,7 +39,7 @@ I am an enthusiastic, responsible and hard working person. I've worked in differ
 
 ### <a name="PROJECTS">Projects</a>
 
-For a complete list of what i am working on [GitHub](https://github.com/pauladarias)
+For a complete list of what I am working on [GitHub](https://github.com/pauladarias)
 
 | Project               | Description                                                                                                  | Tech Stack                                       | Testing         | Links                                                                                                                                                                                                                                                                                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,13 +53,12 @@ For a complete list of what i am working on [GitHub](https://github.com/pauladar
 - **Good communicator** - Skilled in communicating effectively with strong interpersonal and organizational skills.
 - **Adaptable** - New environments, new languages, new teams, new challenges. None of these are problems, only opportunities. I have worked in a few countries around the world with a huge diversity of teams. There is always a way to connect.
 - **Attention to detail** - In my previous experience as an educator, I have developed an extremely keen eye for the fine details. This comes through in the way I write code, from seeing how the whole code fits in together.
-- **Enthusiastic** - I am highly motivated and unafraid of challenges. I do not shy away from difficult or time-consuming tasks.
+- **Enthusiastic** - I am highly motivated and unafraid of challenges, that's what keeps me motivated every day to keep up working on new projects.
 - **Commitment** - I completed the 3 months of Makers Academy coding bootcamp as a remote student. This required discipline and focus – with a considerable helping of self-belief.
-- **Goal orientated** - Achieving goals, creative/strategic thinking, and problem-solving.
 - **Diligent** - Excellent ethics, hardworking, focus minded and sound organizational ability.
 - **Collaborator** - A friendly, passionate and confident communicator. Able to build lasting relationships with people.
 
-Currently working on different Front End projects (In progress)
+Currently working on different Front End projects
 
 \*All source code available on [my Github](https://github.com/pauladarias)
 
