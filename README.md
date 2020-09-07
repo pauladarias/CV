@@ -109,10 +109,9 @@ Passionate about music, especially playing drums in female bands. Love for desig
 ### <a name="contact">Contact</a>
 
 - Github: [pauladarias][1]
-- Twitter: [@pauladarias](https://twitter.com/pauladarias)
-- Codewars http://www.codewars.com/users/pauladarias
-- Coding Blog/Site: (in progress)
+- Website: [www.pauladarias.com][3]
 - [LinkedIn](https://www.linkedin.com/in/paula-darias-a10317117/)
 
 [1]: https://github.com/pauladarias
 [2]: https://www.linkedin.com/in/paula-darias-a10317117/
+[3]: https://www.pauladarias.com/
