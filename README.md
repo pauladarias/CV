@@ -1,4 +1,10 @@
  <br>
+<p align="center">
+  <a href="https://www.pauladarias.com">
+    <img  src=https://github.com/pauladarias/CV/blob/master/images%20/paula_white.png" alt="Paula" hspace="50" height="62" width="62"">
+
+  <h3 align="center" style="color: green">www.pauladarias.com</h3></a>
+</p>
 
 <h1 align="center">PAULA DARIAS</h1>
 
@@ -7,7 +13,7 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/paula-darias-a10317117/">
-    <img src="https://github.com/pauladarias/CV/blob/master/images%20/linkedin_logo.png" alt="linkedin" hspace="30" height="42" width="42"</a>
+    <img src="https://github.com/pauladarias/CV/blob/master/images%20/linkedin_logo.png" alt="linkedin" hspace="30" height="42" width="42"/a>
 </p>
 
 <div align="center">
@@ -42,11 +48,10 @@ I am currently looking to change career from teaching into software developer, w
 
 For a complete list of what i am working on [GitHub](https://github.com/pauladarias)
 
-| Project               | Description                                                                                                  | Tech Stack                                           | Testing         | Links                                                                                                                                                                                                                                                                                                                                                                     |
-| --------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Re-engage Portal      | The Re-Engage Coordinator Portal helps charity coordinators by automating the administrative tasks involved. | MongoDB, Express, React, Node.js                     | Jest, Cypress   | <a href="https://charity2020.herokuapp.com/admin/login"><img alt="heroku" src="https://github.com/pauladarias/CV/blob/master/images%20/heroku_logo.png" height="42" width="42"> </a><a href="https://github.com/Tracht/charity-apr2020"><img alt="github" src="https://github.com/pauladarias/CV/blob/master/images%20/github_logo.png" height="42" width="42"> </a>      |
+| Project               | Description                                                                                                  | Tech Stack                                       | Testing         | Links                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Re-engage Portal      | The Re-Engage Coordinator Portal helps charity coordinators by automating the administrative tasks involved. | MongoDB, Express, React, Node.js                 | Jest, Cypress   | <a href="https://charity2020.herokuapp.com/admin/login"><img alt="heroku" src="https://github.com/pauladarias/CV/blob/master/images%20/heroku_logo.png" height="42" width="42"> </a><a href="https://github.com/Tracht/charity-apr2020"><img alt="github" src="https://github.com/pauladarias/CV/blob/master/images%20/github_logo.png" height="42" width="42"> </a>      |
 | Honey Bunnies Acebook | Clone of some Facebook functionalities using rails as a framework for back and front end.                    | Rails, Active Records, Active Storage, Bootstrap | Rspec, Capybara | <a href="https://acebook-honeybunnies.herokuapp.com/"><img alt="heroku" src="https://github.com/pauladarias/CV/blob/master/images%20/heroku_logo.png" height="42" width="42"> </a><a href="https://github.com/cmb84scd/acebook-HoneyBunnies"><img alt="github" src="https://github.com/pauladarias/CV/blob/master/images%20/github_logo.png" height="42" width="42"> </a> |
-
 
 ---
 
