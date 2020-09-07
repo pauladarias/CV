@@ -26,13 +26,13 @@
 ### <a name="summary">Hi there!</a>
 
 
-I’m Paula and I’m very excited to find my first role as Junior Front-End Developer. After finishing Makers I’ve been working on my own projects, learning React and optimising my website. 
+My name is Paula and I am very excited to begin searching for my first role as a Junior Front-End Developer. After finishing my course at [Makers](https://makers.tech/) I have been further developing my skills by working on my own projects, learning React and optimising my website. 
 
-I’ve been a teacher for the past 8 years, that has helped me to focus on my learning process and to believe that with perseverance, commitment and passion anything can be learnt. 
+For the past 8 years I have been working in education as a teacher; this has helped me to focus on my learning process and to believe that with perseverance, commitment and passion, anything can be learnt.
 
-I love web design and I enjoy building intuitive websites, thanks to my arts background, creative thinking and attention to detail I’m able to create easy and good looking applications. 
+Previous to my employment in education I had a background in fine art, something I still have a keen interest in to this day. This helped me to think creatively and also ensured that I give all that I do the attention to detail it deserves. This has been key to my development as a developer which in turn has meant that I have been able to create good looking, simple applications with general ease.
 
-I am an enthusiastic, responsible and hard working person. I've worked in different projects and environments throughout my career helping me to adapt to the changes quickly.
+I am an enthusiastic, responsible and hard working person. I'v worked in different environments and on different projects throughout my career which has helped me to adapt to changes quickly.
 
 
 ---
